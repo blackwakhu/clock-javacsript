@@ -1,0 +1,19 @@
+div{
+    background-color: rgba(47, 47, 221, .5);
+    text-align: center;
+    border-radius: 10px;
+}
+#time{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 200px;
+    text-align: center;
+    text-decoration: wavy;
+}
+h1{
+    text-align: center;
+    text-transform: capitalize;
+    text-decoration: double;
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: italic;
+}
